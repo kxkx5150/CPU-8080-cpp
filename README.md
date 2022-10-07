@@ -24,6 +24,14 @@ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net
 | RIGHT CURSOR | Move Right     |
 | SPACE        | Fire           |
 
+<br><br><br>
+
+
+https://user-images.githubusercontent.com/10168979/194651864-23527556-1a98-4fba-a57b-a0cce26abcec.mp4
+
+
+
+
 <br><br><br><br><br><br>
 
 vscode extensions
